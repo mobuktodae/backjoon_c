@@ -19,8 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="backjoon_1934_lcm.cpp" />
-    <ClCompile Include="backjoon_2609_gcdlcm.cpp" />
+    <ClCompile Include="backjoon_1212_octtobinary.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
